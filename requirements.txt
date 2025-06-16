@@ -1,8 +1,7 @@
 flask==2.3.3
 requests==2.31.0
-eth-account==0.9.0
-hyperliquid-python-sdk==0.1.8
+eth-account==0.8.0
+hyperliquid-python-sdk
 gunicorn==21.2.0
 python-dotenv==1.0.0
-web3==6.11.0
 cryptography==41.0.7
